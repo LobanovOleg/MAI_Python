@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pyjwt
+oauthlib
+aiogram
+celery
+python-dotenv
+confluent_kafka
+passlib
+python-jose[cryptography]
+pydantic-settings
+python-multipart
+bcrypt==3.2.0
